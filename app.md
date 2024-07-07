@@ -1,3 +1,5 @@
+<img src="dnd_logo.png" alt="logo">
+
 # Pazudušais cietoksnis
 
 **Dungeons & Dragons scenārijs**, kura autors ir Mārcis Tolpežņikovs.
